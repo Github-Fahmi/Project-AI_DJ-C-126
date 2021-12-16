@@ -11,6 +11,8 @@ body{
     background-color: red;
 }
 canvas{
-    border-color: white;
+    border:5px solid white;
     box-shadow: 5px 5px 5px rgb(70, 70, 70);
+    background-color:yellow;
+    border-radius:20px;
 }
